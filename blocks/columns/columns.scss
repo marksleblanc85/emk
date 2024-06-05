@@ -1,0 +1,11 @@
+.pxblock--columns{
+    > .container{
+        max-width: 1174px;
+    }
+    .grid-list{
+        grid-gap: 7px;
+    }
+    .bg-base-blue\/90{
+        background-color: rgb(82 111 169 / 90%);
+    }
+}
